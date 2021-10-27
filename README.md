@@ -32,4 +32,4 @@ Users should be able to:
 
 ## Author
 
-- Twitter - [@leoleo_dev](https://www.twitter.com/Leandro Acosta)
+- Twitter - (https://www.twitter.com/@leoleo_dev)
