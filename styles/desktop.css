@@ -1,0 +1,44 @@
+.main_container {
+	overflow:hidden;
+	height: 45%;
+	display: flex;
+	flex-direction: row-reverse;
+	width: 90%;
+}
+
+.main_container figure {
+	width: 70%;
+}
+
+.main_container-info__description {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: start;
+}
+
+.main_container-info__description h2 {
+	font-size: 3.4rem;
+	padding: 1%;
+	width: 80%;
+}
+
+.main_container-info__description p {
+	font-size: 1.6rem;
+	line-height: 2.7rem;
+	margin-left: 2%;
+	width: 80%;
+}
+
+.main_container-info__stats {
+	font-size: 1.6rem;
+	display: flex;
+	flex-direction: row;	
+}
+
+.main_container-info__stats div span {
+	font-size: 2.8rem;
+}
+.main_container-info__stats div p {
+	color: hsla(0, 0%, 100%, 0.6);
+}

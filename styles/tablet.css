@@ -1,0 +1,24 @@
+.main_container {
+	overflow-y: scroll;
+}
+
+.main_container-info__description {
+	margin-bottom: 2%;
+}
+ .main_container-info__description h2 {
+	 margin-bottom: 4%;
+	 font-size: 4.2rem;
+ }
+
+ .main_container-info__description p {
+	 font-size: 2.5rem;
+	 line-height: 3.5rem;
+ }
+ 
+ .main_container-info__stats {
+	 font-size: 2.3rem;
+ }
+
+ .main_container-info__stats div span {
+	font-size: 3.7rem;
+ }
