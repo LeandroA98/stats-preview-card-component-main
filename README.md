@@ -19,8 +19,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/LeandroA98/stats-preview-card-component-main/tree/master)
+
+- Live Site URL: (https://leandroa98.github.io/stats-preview-card-component-main/)
 
 ### Built with
 
